@@ -198,7 +198,6 @@ begin
 end;
 
 procedure TframeCadEmpresa.Persistir;
-var aTipoEdicao : string;
 begin
   if valida(0) then
   begin
